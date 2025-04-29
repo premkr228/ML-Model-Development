@@ -41,9 +41,9 @@ individuals who either exhibit early signs of diabetes or are at risk of develop
 <br>	Ensemble Methods (any one of your choice)</br>
 <br>	K-Nearest Neighbour</br>
 
-## 7. Compare the performances of each model/classifier considering the given dataset using different evaluation measures such as Precision, Recall, F1-Score, AUC-ROC. Shown the comparison chart in Python notebook.
+### 7. Compare the performances of each model/classifier considering the given dataset using different evaluation measures such as Precision, Recall, F1-Score, AUC-ROC. Shown the comparison chart in Python notebook.
 
-## 8. Identify the model, which is the best amongst all the models that have been trained.
+### 8. Identify the model, which is the best amongst all the models that have been trained.
 
 
 
