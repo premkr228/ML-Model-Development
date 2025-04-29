@@ -1,3 +1,6 @@
+![1700613031139](https://github.com/user-attachments/assets/3451a3b9-54db-43f3-b56e-dbe89567c6dd)
+
+
 # ML-Model-Development
 The aim of project is to develop a predictive model that can identify individuals at risk of developing diabetes based on the features given in the dataset.
 
